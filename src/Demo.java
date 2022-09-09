@@ -5,6 +5,7 @@ public class Demo {
         System.out.println(sub(40,20));
         System.out.println(mult(3,5));
         System.out.println(div(2,5));
+        System.out.println(div(2,5));
 
     }
     public static float add(float x,float y){
