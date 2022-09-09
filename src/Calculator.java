@@ -9,6 +9,7 @@ public class Calculator{
         System.out.println(div);
         int diff=diff(5,4);
         System.out.println(diff);
+        System.out.println(diff);
 
     }
     public static int sum(int a,int b){
