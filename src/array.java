@@ -4,7 +4,7 @@ public class array {
 
     public static void main(String[] args) {
         sumArray();
-        sumArray();
+
     }
 
     public static void sumArray() {
