@@ -14,5 +14,7 @@ public class loop {
 
         int[] marks={100,90,80};
         System.out.println(marks.length);
+        System.out.println(marks.length);
+        System.out.println(marks.length);
     }
 }
