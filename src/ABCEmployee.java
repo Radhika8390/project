@@ -6,6 +6,7 @@ public class ABCEmployee implements EmployeeRules{
         abc.relocate();
         abc.report();
         abc.dress();
+        abc.dress();abc.dress();abc.dress();abc.dress();abc.dress();abc.dress();abc.dress();
 
     }
 
