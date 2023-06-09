@@ -13,6 +13,12 @@ public class Person {
         int age;
 
         Person p=new Person();
+         Person p=new Person();
+         Person p=new Person();
+         Person p=new Person(); Person p=new Person();
+         Person p=new Person();
+         Person p=new Person();
+         Person p=new Person(); Person p=new Person();
 
     }
 }
